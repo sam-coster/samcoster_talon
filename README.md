@@ -5,6 +5,8 @@
 # _globals: Global Hotkey for toggling talon 
 ctrl+alt+space will cause Talon to begin listening, or stop listening. Very handy for when you're hopping into/out of voice calls while using talon, such that you don't have to say "TALON WAKE/SLEEP" like a maniac every 30s.
 
+I also recommend assigning this to a hotkey on a mouse.
+
 # _github: For github desktop
 Context-specific to the github desktop application, using its native hotkeys.
 "git push" - causes you to push your current commits.
