@@ -1,0 +1,1 @@
+share ex: key(ctrl-home)
